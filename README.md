@@ -7,8 +7,9 @@ The VOD of this addon pulls the show listing from the greek-movies.com website. 
 1/7/2026 - Fixed parser that would throw an error when a year wasn't found thus you couldn't watch the series.
 2/13/2026 - Fix broken github link that broke liveTV.
 2/23/2026 - Script Modules Tulip doesn't work in Python 3.14. I have fixed the module so it works with python 3.14. Please install this version if you are using Python 3.14 or later.
+2/23/2026 - Fixed broken URL that was used to check the versions.
 
-Please use release AliveGR 2.12.5 to the right.
+Please use release AliveGR 2.12.6 to the right.
 
 If you like my work:
 https://ko-fi.com/goldengate2121
